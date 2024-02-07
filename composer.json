@@ -1,0 +1,20 @@
+{
+    "name": "hpz937/logutil",
+    "description": "logging utility for php",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Hpz937\\Logutil\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Brad Cimbura",
+            "email": "hpz937+code@gmail.com"
+        }
+    ],
+    "require": {
+        "adhocore/cli": "^1.6"
+    }
+}
