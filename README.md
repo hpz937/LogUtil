@@ -28,12 +28,6 @@ Log::error('This is an error message');
 
 You can also set the log file path and the execution environment (CLI or not) using the setLogFile and setRunFromCli methods respectively.
 
-### Running the tests
-Explain how to run the automated tests for this system.
-
-### Deployment
-Add additional notes about how to deploy this on a live system.
-
 ### Built With
 - adhocore/cli - Command line interface library for PHP
 
